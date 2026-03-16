@@ -46,7 +46,7 @@ function PrayerStep({ step, stepNum }) {
             <img
               src={step.image}
               alt={step.name}
-              className="w-full rounded-lg object-cover max-h-56"
+              className="w-full rounded-lg object-contain"
               loading="lazy"
             />
           )}

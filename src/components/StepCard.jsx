@@ -78,7 +78,7 @@ export default function StepCard({ step, index }) {
               <img
                 src={step.image}
                 alt={step.imageDesc || step.title}
-                className="w-full rounded-lg object-cover max-h-56"
+                className="w-full rounded-lg object-contain"
                 loading="lazy"
               />
             </div>
