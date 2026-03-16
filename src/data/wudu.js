@@ -155,7 +155,7 @@ export const wuduStepsFemale = [
     duaTranslit: 'Навайту-ль-вудуа ли-рафи-ль-хадаси ва истибаха-с-саля́',
     duaTranslation: 'Намереваюсь совершить вуду для снятия малого осквернения и разрешения намаза',
     tip: 'Намерение делается одновременно с первым действием вуду.',
-    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-hands.png',
+    image: 'https://www.hopewelfaretrust.org/wp-content/uploads/2026/03/wudu-for-females-2.jpg',
     imageDesc: 'Женщина в хиджабе стоит перед умывальником',
   },
   {
@@ -167,8 +167,8 @@ export const wuduStepsFemale = [
     duaTranslit: 'Бисмилляhир-Рахмани-р-Рахим',
     duaTranslation: 'Во имя Аллаhа, Милостивого, Милосердного',
     tip: 'Это желательное (суннат) действие.',
-    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-hands.png',
-    imageDesc: 'Руки женщины в хиджабе под краном',
+    image: 'https://www.hopewelfaretrust.org/wp-content/uploads/2026/03/wudu-for-females-2.jpg',
+    imageDesc: 'Женщина в хиджабе начинает омовение',
   },
   {
     id: 3,
@@ -177,8 +177,8 @@ export const wuduStepsFemale = [
     description: 'Вымойте обе руки три раза до запястий, хорошо промывая между пальцами.',
     count: '3 раза',
     tip: 'Снимайте кольца и украшения, если они препятствуют попаданию воды на кожу.',
-    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-hands.png',
-    imageDesc: 'Женские руки моются под краном',
+    image: 'https://www.hopewelfaretrust.org/wp-content/uploads/2026/03/wudu-for-females-2.jpg',
+    imageDesc: 'Женщина в хиджабе моет руки',
   },
   {
     id: 4,
@@ -187,7 +187,7 @@ export const wuduStepsFemale = [
     description: 'Возьмите воду в рот и тщательно прополощите три раза.',
     count: '3 раза',
     tip: 'Тщательно полощите рот, доводя воду до задней части.',
-    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-rinse-mouth.png',
+    image: 'https://www.hopewelfaretrust.org/wp-content/uploads/2026/03/female-performing-wudu-1.jpg',
     imageDesc: 'Женщина полощет рот',
   },
   {
@@ -197,7 +197,7 @@ export const wuduStepsFemale = [
     description: 'Втяните воду в нос и очистите его три раза.',
     count: '3 раза',
     tip: 'Промывайте ноздри достаточно глубоко, но без фанатизма.',
-    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-into-nose.png',
+    image: 'https://www.hopewelfaretrust.org/wp-content/uploads/2026/03/female-performing-wudu-1.jpg',
     imageDesc: 'Женщина промывает нос водой',
   },
   {
@@ -207,8 +207,8 @@ export const wuduStepsFemale = [
     description: 'Вымойте всё лицо три раза — от линии роста волос до подбородка, и от мочки до мочки уха.',
     count: '3 раза',
     tip: 'Макияж необходимо смыть перед вуду, иначе вуду будет недействительным, так как водонепроницаемые вещества препятствуют попаданию воды на кожу.',
-    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-face.png',
-    imageDesc: 'Женщина в хиджабе умывает лицо, открытые участки кожи омываются водой',
+    image: 'https://www.hopewelfaretrust.org/wp-content/uploads/2026/03/female-performing-wudu-1.jpg',
+    imageDesc: 'Женщина в хиджабе умывает лицо',
   },
   {
     id: 7,
@@ -217,8 +217,8 @@ export const wuduStepsFemale = [
     description: 'Вымойте правую руку до локтя включительно три раза, затем левую.',
     count: '3 раза каждую',
     tip: 'Убедитесь, что вода достигает всей поверхности руки, включая локоть. Следите за лаком для ногтей — он не пропускает воду.',
-    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-arms.png',
-    imageDesc: 'Женские руки моются до локтей под краном',
+    image: 'https://www.hopewelfaretrust.org/wp-content/uploads/2026/03/wudu-for-females-2.jpg',
+    imageDesc: 'Женщина моет руки до локтей',
   },
   {
     id: 8,
@@ -227,8 +227,8 @@ export const wuduStepsFemale = [
     description: 'Смочите обе ладони и проведите ими по голове один раз. Если вы в хиджабе — снимите его для масха или проведите по нему (но лучше по волосам).',
     count: '1 раз',
     tip: 'По правильному мнению ханафи, масх нужно делать по волосам, а не по хиджабу. Снимите хиджаб для полноценного вуду.',
-    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-hair.png',
-    imageDesc: 'Руки проводят масх по голове женщины',
+    image: 'https://muslimtots.com/wp-content/uploads/2024/11/How-To-Perform-Wudu-For-Women-In-Islam.webp',
+    imageDesc: 'Пошаговая схема вуду для женщин',
   },
   {
     id: 9,
@@ -237,8 +237,8 @@ export const wuduStepsFemale = [
     description: 'Указательными пальцами протрите внутри ушей, большими — за ушами.',
     count: '1 раз',
     tip: 'Используйте оставшуюся воду с масха головы.',
-    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-clean-ears.png',
-    imageDesc: 'Пальцы протирают уши',
+    image: 'https://muslimtots.com/wp-content/uploads/2024/11/How-To-Perform-Wudu-For-Women-In-Islam.webp',
+    imageDesc: 'Пошаговая схема вуду для женщин',
   },
   {
     id: 10,
@@ -247,8 +247,8 @@ export const wuduStepsFemale = [
     description: 'Вымойте правую ногу три раза, затем левую. Обязательно промывайте между пальцами ног.',
     count: '3 раза каждую',
     tip: 'Лак для ногтей на ногах препятствует попаданию воды — снимите его перед вуду. Начинайте с правой ноги.',
-    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-feet.png',
-    imageDesc: 'Женская нога моется под краном, пальцы промываются',
+    image: 'https://www.hopewelfaretrust.org/wp-content/uploads/2026/03/wudu-for-females-2.jpg',
+    imageDesc: 'Женщина моет ноги',
   },
   {
     id: 11,
@@ -259,6 +259,7 @@ export const wuduStepsFemale = [
     duaTranslit: 'Ашхаду алля иляха иллалла, вахдаху ля шарика лях, ва ашхаду анна Мухаммадан абдуху ва расулюх',
     duaTranslation: 'Свидетельствую, что нет бога кроме Аллаhа, Единого, нет у Него сотоварища, и свидетельствую, что Мухаммад — Его раб и Посланник',
     tip: 'После этой дуа желательно прочитать суру Аль-Кадр.',
+    image: 'https://www.hopewelfaretrust.org/wp-content/uploads/2026/03/female-performing-wudu-1.jpg',
     imageDesc: 'Женщина в хиджабе делает дуа с раскрытыми ладонями',
   },
 ];
