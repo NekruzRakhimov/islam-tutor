@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-islamic-cream font-sans text-gray-800;
+  }
+
+  h1, h2, h3 {
+    @apply text-islamic-green-dark;
+  }
+}
+
+@layer components {
+  .arabic-text {
+    font-family: 'Noto Naskh Arabic', 'Amiri', serif;
+    direction: rtl;
+    @apply text-right;
+  }
+
+  .btn-primary {
+    @apply bg-islamic-green text-white px-6 py-2 rounded-lg hover:bg-islamic-green-light transition-colors duration-200 font-medium;
+  }
+
+  .btn-gold {
+    @apply bg-islamic-gold text-white px-6 py-2 rounded-lg hover:bg-islamic-gold-light transition-colors duration-200 font-medium;
+  }
+
+  .card {
+    @apply bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300;
+  }
+
+  .section-title {
+    @apply text-2xl font-bold text-islamic-green-dark mb-2;
+  }
+
+  .geometric-bg {
+    background-color: #1a6b3a;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='56' height='100'%3E%3Crect width='56' height='100' fill='%231a6b3a'/%3E%3Cpath d='M28 66L0 50L0 16L28 0L56 16L56 50L28 66L28 100' fill='none' stroke='%23c9a84c' stroke-opacity='0.25' stroke-width='1'/%3E%3Cpath d='M28 0L28 34L0 50L0 84L28 100L56 84L56 50L28 34' fill='none' stroke='%23c9a84c' stroke-opacity='0.15' stroke-width='1'/%3E%3C/svg%3E");
+  }
+
+  .step-number {
+    @apply w-8 h-8 rounded-full bg-islamic-gold text-white text-sm font-bold flex items-center justify-center flex-shrink-0;
+  }
+
+  .gender-btn {
+    @apply px-5 py-2 rounded-full text-sm font-semibold transition-all duration-200 border-2;
+  }
+
+  .gender-btn-active-male {
+    @apply bg-blue-600 border-blue-600 text-white;
+  }
+
+  .gender-btn-active-female {
+    @apply bg-pink-500 border-pink-500 text-white;
+  }
+
+  .gender-btn-inactive {
+    @apply bg-white border-gray-300 text-gray-600 hover:border-islamic-gold;
+  }
+}
+
+.pattern-divider {
+  height: 3px;
+  background: linear-gradient(to right, transparent, #c9a84c, #1a6b3a, #c9a84c, transparent);
+}
+
+.card-hover {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(26, 107, 58, 0.15);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f5f0e8;
+}
+::-webkit-scrollbar-thumb {
+  background: #c9a84c;
+  border-radius: 3px;
+}
