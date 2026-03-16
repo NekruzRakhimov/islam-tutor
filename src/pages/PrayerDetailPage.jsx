@@ -41,6 +41,15 @@ function PrayerStep({ step, stepNum }) {
       </div>
       {open && (
         <div className="border-t border-gray-100 p-4 space-y-3">
+          {/* Image */}
+          {step.image && (
+            <img
+              src={step.image}
+              alt={step.name}
+              className="w-full rounded-lg object-cover max-h-56"
+              loading="lazy"
+            />
+          )}
           {/* Arabic + transliteration */}
           <div className="bg-islamic-cream rounded-xl p-4 border border-islamic-gold/20">
             <p className="text-xs text-islamic-gold font-semibold uppercase tracking-wide mb-2">Читается:</p>

@@ -133,6 +133,7 @@ export const prayerSteps = {
           transliteration: 'Аллаhу Акбар',
           translation: 'Аллаh Величайший',
           note: 'По ханафи мазхабу мужчины поднимают руки до мочек ушей, большие пальцы касаются мочек. Женщины поднимают руки до плеч.',
+          image: 'https://qurango.com/images/namaz/namaz1.jpg',
         },
         {
           id: 2,
@@ -144,6 +145,7 @@ export const prayerSteps = {
           transliteration: "Субханакалляhумма ва бихамдик, ва табаракасмук, ва таа'ля джаддук, ва ля иляhа гайрук",
           translation: 'Хвала Тебе, о Аллаh, и благодарность Тебе. Благословенно Твоё имя, возвышено Твоё величие, и нет бога, кроме Тебя',
           note: 'Санa читается только в первом ракаате, тихо.',
+          image: 'https://qurango.com/images/namaz/namaz3.jpg',
         },
         {
           id: 3,
@@ -155,6 +157,7 @@ export const prayerSteps = {
           transliteration: 'Аузу биллаhи минаш-шайтанир-раджим. Бисмиллаhир-рахманир-рахим',
           translation: 'Прибегаю к защите Аллаhа от проклятого шайтана. Во имя Аллаhа, Милостивого, Милосердного',
           note: 'Таавуз читается только в первом ракаате.',
+          image: 'https://qurango.com/images/namaz/namaz3.jpg',
         },
         {
           id: 4,
@@ -166,6 +169,7 @@ export const prayerSteps = {
           transliteration: 'Альхамду лиллаhи раббиль-алямин. Аррахманир-рахим. Малики яумид-дин. Иййака набуду ва иййака настаин. Ихдинас-сыратал-мустаким. Сырата-ллязина анамта алейhим, гайриль-магдуби алейhим валяд-даллин',
           translation: 'Хвала Аллаhу, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путём — путём тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших',
           note: 'После Фатихи тихо произносят «Амин».',
+          image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/standing-for-salah-looking-at-ground.jpg',
         },
         {
           id: 5,
@@ -177,6 +181,7 @@ export const prayerSteps = {
           transliteration: 'Куль хуваллаhу ахад. Аллаhус-самад. Лям йалид ва лям йуляд. Ва лям йакун лаhу куфуван ахад.',
           translation: 'Скажи: «Он — Аллаh Единый. Аллаh — Самодостаточный. Он не родил и не был рождён. И нет никого равного Ему»',
           note: 'Дополнительная сура читается только в первых двух ракаатах.',
+          image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/standing-in-salah-recite-surah-fatihah.jpg',
         },
         {
           id: 6,
@@ -188,6 +193,7 @@ export const prayerSteps = {
           transliteration: 'Субхана раббийаль-азым (3 раза)',
           translation: 'Пречист мой Великий Господь',
           note: 'По ханафи произносят минимум 3 раза. Мужчины полностью выпрямляют спину, параллельно полу.',
+          image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/make-ruku-prostration.jpg',
         },
         {
           id: 7,
@@ -199,6 +205,7 @@ export const prayerSteps = {
           transliteration: 'Самиаллаhу лиман хамидаh. Раббана лакаль-хамд.',
           translation: 'Аллаh слышит того, кто благодарит Его. Господь наш, Тебе хвала.',
           note: 'Молящийся за имамом говорит только «Раббана лакаль-хамд».',
+          image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/standing-for-salah-looking-at-ground.jpg',
         },
         {
           id: 8,
@@ -210,6 +217,7 @@ export const prayerSteps = {
           transliteration: 'Субхана раббийаль-аля (3 раза)',
           translation: 'Пречист мой Всевышний Господь',
           note: 'В саджда нельзя читать Коран. Мужчины расставляют локти в стороны, женщины прижимают их к телу.',
+          image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/making-sujud-in-salah.jpg',
         },
         {
           id: 9,
@@ -221,6 +229,7 @@ export const prayerSteps = {
           transliteration: 'Раббигфир ли',
           translation: 'Господи, прости меня',
           note: 'Краткое сидение между двумя земными поклонами.',
+          image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/sitting-in-salah-and-tashahud.jpg',
         },
         {
           id: 10,
@@ -232,6 +241,7 @@ export const prayerSteps = {
           transliteration: 'Субхана раббийаль-аля (3 раза)',
           translation: 'Пречист мой Всевышний Господь',
           note: 'После второго саджда первого ракаата встаньте для второго ракаата.',
+          image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/making-sujud-in-salah.jpg',
         },
       ],
     },
@@ -248,6 +258,7 @@ export const prayerSteps = {
           transliteration: 'Бисмиллаhир-рахманир-рахим',
           translation: 'Во имя Аллаhа, Милостивого, Милосердного',
           note: 'Санa и таавуз в последующих ракаатах не читаются.',
+          image: 'https://qurango.com/images/namaz/namaz3.jpg',
         },
         {
           id: 2,
@@ -259,6 +270,7 @@ export const prayerSteps = {
           transliteration: 'Альхамду лиллаhи... (Аль-Фатиха + сура)',
           translation: 'Аль-Фатиха и дополнительная сура',
           note: 'Тот же порядок, что и в первом ракаате.',
+          image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/standing-for-salah-looking-at-ground.jpg',
         },
         {
           id: 3,
@@ -270,6 +282,7 @@ export const prayerSteps = {
           transliteration: 'Субхана раббийаль-азым | Субхана раббийаль-аля',
           translation: 'Пречист мой Великий Господь | Пречист мой Всевышний Господь',
           note: 'Те же движения и зикры, что и в первом ракаате.',
+          image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/make-ruku-prostration.jpg',
         },
         {
           id: 4,
@@ -281,6 +294,7 @@ export const prayerSteps = {
           transliteration: 'Аттахийяту лилляhи вас-салавату ват-тайибат. Ас-саляму алейка аййуhан-набийю ва рахматуллаhи ва баракатуh. Ас-саляму алейна ва аля ибадиллаhис-салихин. Ашhаду алля иляhа иллаллаh ва ашhаду анна Мухаммадан абдуhу ва расулюh.',
           translation: 'Все приветствия, молитвы и блага принадлежат Аллаhу. Мир тебе, о Пророк, и милость Аллаhа, и Его благословения. Мир нам и праведным рабам Аллаhа. Свидетельствую, что нет бога кроме Аллаhа, и свидетельствую, что Мухаммад — Его раб и Посланник.',
           note: 'При произношении слова «иллалла́h» в шахаде поднимают указательный палец правой руки.',
+          image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/sitting-in-salah-and-tashahud.jpg',
         },
         {
           id: 5,
@@ -292,6 +306,7 @@ export const prayerSteps = {
           transliteration: 'Аллаhумма салли аля Мухаммадин ва аля али Мухаммад, кама саллайта аля Ибраhима ва аля али Ибраhим, иннака Хамидун Маджид. Аллаhумма барик аля Мухаммадин ва аля али Мухаммад, кама баракта аля Ибраhима ва аля али Ибраhим, иннака Хамидун Маджид.',
           translation: 'О Аллаh, благослови Мухаммада и семью Мухаммада, как Ты благословил Ибраhима и семью Ибраhима. Поистине, Ты Достохвальный, Величественный...',
           note: 'Читается в последнем ракаате.',
+          image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/saying-tashahud-and-salah-an-nabi-prophet.jpg',
         },
         {
           id: 6,
@@ -303,6 +318,7 @@ export const prayerSteps = {
           transliteration: 'Аллаhумма инни залямту нафси зульман касиран, ва ля йагфируз-зунуба илля анта, фагфир ли магфиратан мин индика вархамни, иннака анталь-гафурур-рахим',
           translation: 'О Аллаh, поистине я причинил душе своей много зла, и никто не прощает грехи, кроме Тебя. Прости же меня прощением от Тебя и помилуй меня, ведь Ты — Прощающий, Милосердный',
           note: 'Это дуа от Абу Бакра ас-Сиддика (р.а.).',
+          image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/saying-tashahud-and-salah-an-nabi-prophet.jpg',
         },
         {
           id: 7,
@@ -314,6 +330,7 @@ export const prayerSteps = {
           transliteration: 'Ас-саляму алейкум ва рахматуллаh',
           translation: 'Мир вам и милость Аллаhа',
           note: 'Намаз завершён. Желательно прочитать истигфар и зикры после намаза.',
+          image: 'https://qurango.com/images/namaz/namaz13.jpg',
         },
       ],
     },

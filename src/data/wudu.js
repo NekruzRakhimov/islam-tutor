@@ -37,6 +37,7 @@ export const wuduStepsMale = [
     duaTranslit: 'Навайту-ль-вудуа ли-рафи-ль-хадаси ва истибаха-с-саля́',
     duaTranslation: 'Намереваюсь совершить вуду для снятия малого осквернения и разрешения намаза',
     tip: 'Намерение делается одновременно с первым действием вуду.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-hands.png',
     imageDesc: 'Человек стоит перед краном с водой, руки сложены, голова слегка опущена',
   },
   {
@@ -48,6 +49,7 @@ export const wuduStepsMale = [
     duaTranslit: 'Бисмилляhир-Рахмани-р-Рахим',
     duaTranslation: 'Во имя Аллаhа, Милостивого, Милосердного',
     tip: 'По ханафи мазхабу это желательное (суннат) действие.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-hands.png',
     imageDesc: 'Крупный план рук под краном с текущей водой',
   },
   {
@@ -57,6 +59,7 @@ export const wuduStepsMale = [
     description: 'Вымойте обе руки три раза до запястий, хорошо промывая между пальцами.',
     count: '3 раза',
     tip: 'Начинайте с правой руки. Убедитесь, что вода достигла всех участков кожи, включая промежутки между пальцами.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-hands.png',
     imageDesc: 'Руки моются под краном, пальцы переплетены для промывания',
   },
   {
@@ -66,6 +69,7 @@ export const wuduStepsMale = [
     description: 'Возьмите воду в рот и тщательно прополощите три раза.',
     count: '3 раза',
     tip: 'Доводите воду до задней части рта. Сплюньте воду после полоскания.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-rinse-mouth.png',
     imageDesc: 'Человек полощет рот водой, запрокинув голову',
   },
   {
@@ -75,6 +79,7 @@ export const wuduStepsMale = [
     description: 'Втяните воду в нос левой рукой и очистите нос три раза.',
     count: '3 раза',
     tip: 'Берите воду правой рукой, очищайте нос левой. Промывайте ноздри достаточно, чтобы вода достигала мягкой части носа.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-into-nose.png',
     imageDesc: 'Человек промывает нос водой',
   },
   {
@@ -84,6 +89,7 @@ export const wuduStepsMale = [
     description: 'Вымойте всё лицо три раза — от линии роста волос до подбородка, от мочки уха до мочки уха.',
     count: '3 раза',
     tip: 'Мужчинам с бородой: необходимо промыть волосы бороды и кожу под ними. Убедитесь, что вода достигла всех участков лица.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-face.png',
     imageDesc: 'Человек умывает лицо обеими руками, вода стекает с лица',
   },
   {
@@ -93,6 +99,7 @@ export const wuduStepsMale = [
     description: 'Вымойте правую руку от кончиков пальцев до локтя включительно три раза, затем то же самое с левой рукой.',
     count: '3 раза каждую',
     tip: 'Включайте локоть при мытье. Начинайте с правой руки.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-arms.png',
     imageDesc: 'Человек моет руку выше локтя под струёй воды',
   },
   {
@@ -102,6 +109,7 @@ export const wuduStepsMale = [
     description: 'Смочите обе ладони водой и проведите ими по голове: от линии волос спереди до шеи сзади, затем обратно. Это делается один раз.',
     count: '1 раз',
     tip: 'По ханафи мазхабу обязательно протереть не менее четверти головы. Не добавляйте новую воду для масха — используйте оставшуюся на ладонях.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-hair.png',
     imageDesc: 'Руки проводят по голове от лба к затылку',
   },
   {
@@ -111,6 +119,7 @@ export const wuduStepsMale = [
     description: 'Указательными пальцами протрите внутренние раковины ушей, большими пальцами — внешние (задние) стороны ушей.',
     count: '1 раз',
     tip: 'Используйте воду, оставшуюся после масха головы. По ханафи это суннат.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-clean-ears.png',
     imageDesc: 'Пальцы протирают уши снаружи и изнутри',
   },
   {
@@ -120,6 +129,7 @@ export const wuduStepsMale = [
     description: 'Вымойте правую ногу от кончиков пальцев до щиколотки включительно три раза, затем то же с левой ногой. Промойте между пальцами.',
     count: '3 раза каждую',
     tip: 'Начинайте с правой ноги. Обязательно промывайте между пальцами — желательно мизинцем левой руки снизу вверх.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-feet.png',
     imageDesc: 'Нога под краном или в тазу, пальцы промываются рукой',
   },
   {
@@ -145,6 +155,7 @@ export const wuduStepsFemale = [
     duaTranslit: 'Навайту-ль-вудуа ли-рафи-ль-хадаси ва истибаха-с-саля́',
     duaTranslation: 'Намереваюсь совершить вуду для снятия малого осквернения и разрешения намаза',
     tip: 'Намерение делается одновременно с первым действием вуду.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-hands.png',
     imageDesc: 'Женщина в хиджабе стоит перед умывальником',
   },
   {
@@ -156,6 +167,7 @@ export const wuduStepsFemale = [
     duaTranslit: 'Бисмилляhир-Рахмани-р-Рахим',
     duaTranslation: 'Во имя Аллаhа, Милостивого, Милосердного',
     tip: 'Это желательное (суннат) действие.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-hands.png',
     imageDesc: 'Руки женщины в хиджабе под краном',
   },
   {
@@ -165,6 +177,7 @@ export const wuduStepsFemale = [
     description: 'Вымойте обе руки три раза до запястий, хорошо промывая между пальцами.',
     count: '3 раза',
     tip: 'Снимайте кольца и украшения, если они препятствуют попаданию воды на кожу.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-hands.png',
     imageDesc: 'Женские руки моются под краном',
   },
   {
@@ -174,6 +187,7 @@ export const wuduStepsFemale = [
     description: 'Возьмите воду в рот и тщательно прополощите три раза.',
     count: '3 раза',
     tip: 'Тщательно полощите рот, доводя воду до задней части.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-rinse-mouth.png',
     imageDesc: 'Женщина полощет рот',
   },
   {
@@ -183,6 +197,7 @@ export const wuduStepsFemale = [
     description: 'Втяните воду в нос и очистите его три раза.',
     count: '3 раза',
     tip: 'Промывайте ноздри достаточно глубоко, но без фанатизма.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-into-nose.png',
     imageDesc: 'Женщина промывает нос водой',
   },
   {
@@ -192,6 +207,7 @@ export const wuduStepsFemale = [
     description: 'Вымойте всё лицо три раза — от линии роста волос до подбородка, и от мочки до мочки уха.',
     count: '3 раза',
     tip: 'Макияж необходимо смыть перед вуду, иначе вуду будет недействительным, так как водонепроницаемые вещества препятствуют попаданию воды на кожу.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-face.png',
     imageDesc: 'Женщина в хиджабе умывает лицо, открытые участки кожи омываются водой',
   },
   {
@@ -201,6 +217,7 @@ export const wuduStepsFemale = [
     description: 'Вымойте правую руку до локтя включительно три раза, затем левую.',
     count: '3 раза каждую',
     tip: 'Убедитесь, что вода достигает всей поверхности руки, включая локоть. Следите за лаком для ногтей — он не пропускает воду.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-arms.png',
     imageDesc: 'Женские руки моются до локтей под краном',
   },
   {
@@ -210,6 +227,7 @@ export const wuduStepsFemale = [
     description: 'Смочите обе ладони и проведите ими по голове один раз. Если вы в хиджабе — снимите его для масха или проведите по нему (но лучше по волосам).',
     count: '1 раз',
     tip: 'По правильному мнению ханафи, масх нужно делать по волосам, а не по хиджабу. Снимите хиджаб для полноценного вуду.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-hair.png',
     imageDesc: 'Руки проводят масх по голове женщины',
   },
   {
@@ -219,6 +237,7 @@ export const wuduStepsFemale = [
     description: 'Указательными пальцами протрите внутри ушей, большими — за ушами.',
     count: '1 раз',
     tip: 'Используйте оставшуюся воду с масха головы.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-clean-ears.png',
     imageDesc: 'Пальцы протирают уши',
   },
   {
@@ -228,6 +247,7 @@ export const wuduStepsFemale = [
     description: 'Вымойте правую ногу три раза, затем левую. Обязательно промывайте между пальцами ног.',
     count: '3 раза каждую',
     tip: 'Лак для ногтей на ногах препятствует попаданию воды — снимите его перед вуду. Начинайте с правой ноги.',
+    image: 'https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-feet.png',
     imageDesc: 'Женская нога моется под краном, пальцы промываются',
   },
   {

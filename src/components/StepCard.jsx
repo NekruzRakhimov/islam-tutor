@@ -72,8 +72,17 @@ export default function StepCard({ step, index }) {
       {/* Expanded content */}
       {expanded && (
         <div className="border-t border-gray-100 px-4 pb-4">
-          {/* Image placeholder */}
-          {step.imageDesc && (
+          {/* Image */}
+          {step.image ? (
+            <div className="mt-3">
+              <img
+                src={step.image}
+                alt={step.imageDesc || step.title}
+                className="w-full rounded-lg object-cover max-h-56"
+                loading="lazy"
+              />
+            </div>
+          ) : step.imageDesc && (
             <div className="mt-3">
               <IslamicPattern label={step.imageDesc} />
             </div>
