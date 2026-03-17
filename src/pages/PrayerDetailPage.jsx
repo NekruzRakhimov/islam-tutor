@@ -19,8 +19,9 @@ function PositionBadge({ position }) {
   );
 }
 
-function PrayerStep({ step, stepNum }) {
+function PrayerStep({ step, stepNum, gender }) {
   const [open, setOpen] = useState(false);
+  const image = gender === 'female' && step.imageFemale ? step.imageFemale : step.image;
   return (
     <div className="card mb-3 card-hover">
       <div className="p-4 cursor-pointer flex gap-3 items-start" onClick={() => setOpen(!open)}>
@@ -42,9 +43,9 @@ function PrayerStep({ step, stepNum }) {
       {open && (
         <div className="border-t border-gray-100 p-4 space-y-3">
           {/* Image */}
-          {step.image && (
+          {image && (
             <img
-              src={step.image}
+              src={image}
               alt={step.name}
               className="w-full rounded-lg object-contain"
               loading="lazy"
@@ -178,7 +179,7 @@ export default function PrayerDetailPage({ gender }) {
                   <div className="flex-1 h-px bg-gray-200" />
                 </div>
                 {rakaat.steps.map((step, i) => (
-                  <PrayerStep key={step.id} step={step} stepNum={i + 1} />
+                  <PrayerStep key={step.id} step={step} stepNum={i + 1} gender={gender} />
                 ))}
               </div>
             ))}

@@ -134,6 +134,7 @@ export const prayerSteps = {
           translation: 'Аллаh Величайший',
           note: 'По ханафи мазхабу мужчины поднимают руки до мочек ушей, большие пальцы касаются мочек. Женщины поднимают руки до плеч.',
           image: 'https://qurango.com/images/namaz/namaz1.jpg',
+          imageFemale: 'http://www.muslimacoaching.com/wp-content/uploads/2021/05/takbir-logo.jpg',
         },
         {
           id: 2,
@@ -146,6 +147,7 @@ export const prayerSteps = {
           translation: 'Хвала Тебе, о Аллаh, и благодарность Тебе. Благословенно Твоё имя, возвышено Твоё величие, и нет бога, кроме Тебя',
           note: 'Санa читается только в первом ракаате, тихо.',
           image: 'https://qurango.com/images/namaz/namaz3.jpg',
+          imageFemale: 'http://www.muslimacoaching.com/wp-content/uploads/2021/05/reciting-logo.jpg',
         },
         {
           id: 3,
@@ -158,6 +160,7 @@ export const prayerSteps = {
           translation: 'Прибегаю к защите Аллаhа от проклятого шайтана. Во имя Аллаhа, Милостивого, Милосердного',
           note: 'Таавуз читается только в первом ракаате.',
           image: 'https://qurango.com/images/namaz/namaz3.jpg',
+          imageFemale: 'http://www.muslimacoaching.com/wp-content/uploads/2021/05/reciting-logo.jpg',
         },
         {
           id: 4,
@@ -170,6 +173,7 @@ export const prayerSteps = {
           translation: 'Хвала Аллаhу, Господу миров, Милостивому, Милосердному, Властелину Дня воздаяния! Тебе одному мы поклоняемся и Тебя одного молим о помощи. Веди нас прямым путём — путём тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших',
           note: 'После Фатихи тихо произносят «Амин».',
           image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/standing-for-salah-looking-at-ground.jpg',
+          imageFemale: 'https://tasleemalquran.com/wp-content/uploads/2021/11/0001-9448485046_20211007_011802_0000-1024x1024.png',
         },
         {
           id: 5,
@@ -182,6 +186,7 @@ export const prayerSteps = {
           translation: 'Скажи: «Он — Аллаh Единый. Аллаh — Самодостаточный. Он не родил и не был рождён. И нет никого равного Ему»',
           note: 'Дополнительная сура читается только в первых двух ракаатах.',
           image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/standing-in-salah-recite-surah-fatihah.jpg',
+          imageFemale: 'https://tasleemalquran.com/wp-content/uploads/2021/11/0001-9449090280_20211007_012758_0000-1024x1024.png',
         },
         {
           id: 6,
@@ -194,6 +199,7 @@ export const prayerSteps = {
           translation: 'Пречист мой Великий Господь',
           note: 'По ханафи произносят минимум 3 раза. Мужчины полностью выпрямляют спину, параллельно полу.',
           image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/make-ruku-prostration.jpg',
+          imageFemale: 'http://www.muslimacoaching.com/wp-content/uploads/2021/05/ruku-logo.jpg',
         },
         {
           id: 7,
@@ -206,6 +212,7 @@ export const prayerSteps = {
           translation: 'Аллаh слышит того, кто благодарит Его. Господь наш, Тебе хвала.',
           note: 'Молящийся за имамом говорит только «Раббана лакаль-хамд».',
           image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/standing-for-salah-looking-at-ground.jpg',
+          imageFemale: 'http://www.muslimacoaching.com/wp-content/uploads/2021/05/standing-2-logo.jpg',
         },
         {
           id: 8,
@@ -218,6 +225,7 @@ export const prayerSteps = {
           translation: 'Пречист мой Всевышний Господь',
           note: 'В саджда нельзя читать Коран. Мужчины расставляют локти в стороны, женщины прижимают их к телу.',
           image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/making-sujud-in-salah.jpg',
+          imageFemale: 'http://www.muslimacoaching.com/wp-content/uploads/2021/05/sujjud-logo.jpg',
         },
         {
           id: 9,
@@ -230,6 +238,7 @@ export const prayerSteps = {
           translation: 'Господи, прости меня',
           note: 'Краткое сидение между двумя земными поклонами.',
           image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/sitting-in-salah-and-tashahud.jpg',
+          imageFemale: 'https://tasleemalquran.com/wp-content/uploads/2021/11/0001-9486932807_20211007_142318_0000-1024x1024.png',
         },
         {
           id: 10,
@@ -242,6 +251,7 @@ export const prayerSteps = {
           translation: 'Пречист мой Всевышний Господь',
           note: 'После второго саджда первого ракаата встаньте для второго ракаата.',
           image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/making-sujud-in-salah.jpg',
+          imageFemale: 'http://www.muslimacoaching.com/wp-content/uploads/2021/05/sujjud-logo.jpg',
         },
       ],
     },
@@ -259,6 +269,7 @@ export const prayerSteps = {
           translation: 'Во имя Аллаhа, Милостивого, Милосердного',
           note: 'Санa и таавуз в последующих ракаатах не читаются.',
           image: 'https://qurango.com/images/namaz/namaz3.jpg',
+          imageFemale: 'http://www.muslimacoaching.com/wp-content/uploads/2021/05/reciting-logo.jpg',
         },
         {
           id: 2,
@@ -271,6 +282,7 @@ export const prayerSteps = {
           translation: 'Аль-Фатиха и дополнительная сура',
           note: 'Тот же порядок, что и в первом ракаате.',
           image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/standing-for-salah-looking-at-ground.jpg',
+          imageFemale: 'https://tasleemalquran.com/wp-content/uploads/2021/11/0001-9448485046_20211007_011802_0000-1024x1024.png',
         },
         {
           id: 3,
@@ -283,6 +295,7 @@ export const prayerSteps = {
           translation: 'Пречист мой Великий Господь | Пречист мой Всевышний Господь',
           note: 'Те же движения и зикры, что и в первом ракаате.',
           image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/make-ruku-prostration.jpg',
+          imageFemale: 'http://www.muslimacoaching.com/wp-content/uploads/2021/05/ruku-logo.jpg',
         },
         {
           id: 4,
@@ -295,6 +308,7 @@ export const prayerSteps = {
           translation: 'Все приветствия, молитвы и блага принадлежат Аллаhу. Мир тебе, о Пророк, и милость Аллаhа, и Его благословения. Мир нам и праведным рабам Аллаhа. Свидетельствую, что нет бога кроме Аллаhа, и свидетельствую, что Мухаммад — Его раб и Посланник.',
           note: 'При произношении слова «иллалла́h» в шахаде поднимают указательный палец правой руки.',
           image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/sitting-in-salah-and-tashahud.jpg',
+          imageFemale: 'http://www.muslimacoaching.com/wp-content/uploads/2021/05/tashahud-logo.jpg',
         },
         {
           id: 5,
@@ -307,6 +321,7 @@ export const prayerSteps = {
           translation: 'О Аллаh, благослови Мухаммада и семью Мухаммада, как Ты благословил Ибраhима и семью Ибраhима. Поистине, Ты Достохвальный, Величественный...',
           note: 'Читается в последнем ракаате.',
           image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/saying-tashahud-and-salah-an-nabi-prophet.jpg',
+          imageFemale: 'http://www.muslimacoaching.com/wp-content/uploads/2021/05/sitting-hands-logo.jpg',
         },
         {
           id: 6,
@@ -319,6 +334,7 @@ export const prayerSteps = {
           translation: 'О Аллаh, поистине я причинил душе своей много зла, и никто не прощает грехи, кроме Тебя. Прости же меня прощением от Тебя и помилуй меня, ведь Ты — Прощающий, Милосердный',
           note: 'Это дуа от Абу Бакра ас-Сиддика (р.а.).',
           image: 'https://www.mymasjid.ca/wp-content/uploads/2017/03/saying-tashahud-and-salah-an-nabi-prophet.jpg',
+          imageFemale: 'http://www.muslimacoaching.com/wp-content/uploads/2021/05/dua-logo.jpg',
         },
         {
           id: 7,
@@ -331,6 +347,7 @@ export const prayerSteps = {
           translation: 'Мир вам и милость Аллаhа',
           note: 'Намаз завершён. Желательно прочитать истигфар и зикры после намаза.',
           image: 'https://qurango.com/images/namaz/namaz13.jpg',
+          imageFemale: 'http://www.muslimacoaching.com/wp-content/uploads/2021/05/salam-right-logo.jpg',
         },
       ],
     },
